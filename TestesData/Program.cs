@@ -13,7 +13,7 @@ namespace TestesData
 
             Console.WriteLine($"{dateForButton}");
 
-            Console.WriteLine(DateTime.Now.AddSeconds(1));
+            Console.WriteLine(DateTime.Now.AddSeconds(10));
         }
     }
 }
