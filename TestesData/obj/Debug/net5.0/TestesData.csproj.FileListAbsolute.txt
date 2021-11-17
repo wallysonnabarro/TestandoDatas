@@ -1,0 +1,16 @@
+C:\Users\Wallyson Nabarro\source\repos\TestesData\TestesData\bin\Debug\net5.0\TestesData.exe
+C:\Users\Wallyson Nabarro\source\repos\TestesData\TestesData\bin\Debug\net5.0\TestesData.deps.json
+C:\Users\Wallyson Nabarro\source\repos\TestesData\TestesData\bin\Debug\net5.0\TestesData.runtimeconfig.json
+C:\Users\Wallyson Nabarro\source\repos\TestesData\TestesData\bin\Debug\net5.0\TestesData.runtimeconfig.dev.json
+C:\Users\Wallyson Nabarro\source\repos\TestesData\TestesData\bin\Debug\net5.0\TestesData.dll
+C:\Users\Wallyson Nabarro\source\repos\TestesData\TestesData\bin\Debug\net5.0\ref\TestesData.dll
+C:\Users\Wallyson Nabarro\source\repos\TestesData\TestesData\bin\Debug\net5.0\TestesData.pdb
+C:\Users\Wallyson Nabarro\source\repos\TestesData\TestesData\obj\Debug\net5.0\TestesData.csproj.AssemblyReference.cache
+C:\Users\Wallyson Nabarro\source\repos\TestesData\TestesData\obj\Debug\net5.0\TestesData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallyson Nabarro\source\repos\TestesData\TestesData\obj\Debug\net5.0\TestesData.AssemblyInfoInputs.cache
+C:\Users\Wallyson Nabarro\source\repos\TestesData\TestesData\obj\Debug\net5.0\TestesData.AssemblyInfo.cs
+C:\Users\Wallyson Nabarro\source\repos\TestesData\TestesData\obj\Debug\net5.0\TestesData.csproj.CoreCompileInputs.cache
+C:\Users\Wallyson Nabarro\source\repos\TestesData\TestesData\obj\Debug\net5.0\TestesData.dll
+C:\Users\Wallyson Nabarro\source\repos\TestesData\TestesData\obj\Debug\net5.0\ref\TestesData.dll
+C:\Users\Wallyson Nabarro\source\repos\TestesData\TestesData\obj\Debug\net5.0\TestesData.pdb
+C:\Users\Wallyson Nabarro\source\repos\TestesData\TestesData\obj\Debug\net5.0\TestesData.genruntimeconfig.cache
